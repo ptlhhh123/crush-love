@@ -1,7 +1,7 @@
 const CONFIGDATA = {
   titleHeader: "Em đã sẵn sàng làm người iu ngta 100% chưa?",
   descriptionHeader:
-    "Nếu bé thoát ra và không trả lời thì có nghĩa là bé đã ĐỒNG Ý rồi đấy ^^",
+    "^^",
   buttonYes: "Yesss 1000%",
   buttonNo: "Không! Còn lâu nhé",
   titleModar: "Cảm ơn babi ah",
